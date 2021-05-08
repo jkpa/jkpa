@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+* Line Bot Project
+  * Phase 1 - Done
+* Whatsapp Bot
+* WeChat Bot
+* ECG Project
+
+
 <!--
 **jkpa/jkpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
